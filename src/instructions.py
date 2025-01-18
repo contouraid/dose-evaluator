@@ -17,7 +17,7 @@ def instruction_panel():
 
         ### Want to learn more?
 
-        - Check out [insta-rt.github.io](https://insta-rt.github.io) for more info
-        - Reach out back to us at [insta-rt.github.io/contact](https://insta-rt.github.io/contact)
+        - Check out [www.contouraid.com](https://www.contouraid.com) for more info
+        - Reach out back to us at [www.contouraid.com/contact](https://www.contouraid.com/contact)
     """
     )
